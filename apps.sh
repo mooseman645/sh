@@ -8,9 +8,7 @@ sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo add-apt-repository ppa:libreoffice/libreoffice-5-4
 sudo add-apt-repository ppa:embrosyn/cinnamon
 sudo add-apt-repository ppa:nilarimogard/webupd8
-=======
 
->>>>>>> parent of 57c7edc... update
 # update apt
 sudo apt-get update
 
@@ -18,9 +16,8 @@ sudo apt-get update
 sudo apt-get install xfce-theme-manager notepadqq git cinnamon
 sudo apt install --install-recommends avant-window-navigator
 sudo apt install --no-install-recommends awn-applets-all
-=======
 sudo apt-get install xfce-theme-manager notepadqq git
->>>>>>> parent of 57c7edc... update
+
 
 # install katoolin
 # git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
