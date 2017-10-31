@@ -8,6 +8,8 @@ sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo add-apt-repository ppa:libreoffice/libreoffice-5-4
 sudo add-apt-repository ppa:embrosyn/cinnamon
 sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo add-apt-repository ppa:webupd8team/themes
+sudo add-apt-repository ppa:webupd8team/icons
 
 # update apt
 sudo apt-get update
